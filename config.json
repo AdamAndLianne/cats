@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "flow",
   "css": "./custom.css",
-  "footer": "Copyright [AdamAndLianne.github.io](https://AdamAndLianne.github.io)",
+  "footer": "Copyright https://AdamAndLianne.github.io",
   "usage-stats": false
 }
