@@ -1,10 +1,11 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Our Zambian Cats! Espy and Ilini",
+  "title": "🐈 Cats 🐾 We 😻 Love 🐈‍⬛",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "album-previews": "spread",
+  "home-album-name": "Cats",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "flow",
